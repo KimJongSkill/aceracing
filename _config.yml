@@ -8,8 +8,8 @@ js_path: /assets/js
 img_generic_path: /assets/img/generic
 
 # Colour settings
-color:
-  dark:  '#260f27'
+colour:
+  dark:  '#160f11'
   light: '#f8f4ff'
   red:   '#c00000'
 
