@@ -1,0 +1,13 @@
+body {
+    background-color: $colour-dark !important;
+}
+
+.row {
+    background-color: $colour-light !important;
+}
+
+.vertical-center {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}

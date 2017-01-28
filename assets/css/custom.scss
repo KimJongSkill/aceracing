@@ -1,0 +1,9 @@
+---
+# Front matter to ensure that Jekyll reads this file
+---
+
+// Import Jekyll variables (Liquid is not available in partials)
+$colour-dark:  {{ site.colour.dark }};
+$colour-light: {{ site.colour.light }};
+
+@import "custom";
