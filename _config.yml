@@ -6,6 +6,7 @@ url: https://aceracing.org
 css_path: /assets/css
 js_path: /assets/js
 img_generic_path: /assets/img/generic
+video_path: /assets/vid
 
 # Colour settings
 colour:
