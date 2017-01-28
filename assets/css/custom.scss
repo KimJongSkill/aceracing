@@ -6,5 +6,8 @@
 $colour-dark:  {{ site.colour.dark }};
 $colour-light: {{ site.colour.light }};
 
+$path-font: {{ site.baseurl }}{{ site.css_path }};
+
 @import "custom";
 @import "video";
+@import "fonts";
